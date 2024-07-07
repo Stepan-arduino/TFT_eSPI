@@ -141,9 +141,9 @@
 // Display LED       to NodeMCU pin VIN (or 5V, see below)
 // Display SCK       to NodeMCU pin D5
 // Display SDI/MOSI  to NodeMCU pin D7
-// Display DC (RS/AO)to NodeMCU pin D3
-// Display RESET     to NodeMCU pin D4 (or RST, see below)
-// Display CS        to NodeMCU pin D8 (or GND, see below)
+// Display DC (RS/AO)to NodeMCU pin D9
+// Display RESET     to NodeMCU pin D8 (or RST, see below)
+// Display CS        to NodeMCU pin D10 (or GND, see below)
 // Display GND       to NodeMCU pin GND (0V)
 // Display VCC       to NodeMCU 5V or 3.3V
 //
